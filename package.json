@@ -94,7 +94,7 @@
     "@grpc/grpc-js": "1.14.5",
     "@grpc/proto-loader": "0.8.1",
     "@nats-io/transport-node": "^3.0.2",
-    "@nestjs/apollo": "14.0.1",
+    "@nestjs/apollo": "14.0.2",
     "@nestjs/graphql": "14.0.1",
     "@nestjs/mongoose": "12.0.0",
     "@nestjs/typeorm": "12.0.1",
